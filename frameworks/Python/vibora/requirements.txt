@@ -5,5 +5,5 @@ python-dateutil==2.7.5
 pytzdata==2018.7
 six==1.12.0
 ujson==1.35
-uvloop==0.12.0
-vibora==0.0.6
+uvloop==0.14.0
+Cython==0.29.32
